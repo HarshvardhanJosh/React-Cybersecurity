@@ -1,6 +1,8 @@
 ## React website uses React Hooks and React Router. The website is fully responsive as too.
 
 <img src='./src/images/ss-1.JPG' alt='img-1' width='800px'/>
+<img src='./src/images/ss-3.JPG' alt='img-3' width='800px'/>
+<img src='./src/images/ss-2.JPG' alt='img-2' width='800px'/>
 
 # Getting Started with Create React App
 
